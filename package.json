@@ -6,7 +6,5 @@
   "author": "\"Simão Junior\"",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "gitignore": "^0.6.0"
-  }
+  "dependencies": {}
 }
