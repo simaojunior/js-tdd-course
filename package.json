@@ -1,0 +1,9 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Repository with studies and activities of the JavaScript course with TDD.",
+  "main": "index.js",
+  "author": "\"Simão Junior\"",
+  "license": "MIT",
+  "private": false
+}
